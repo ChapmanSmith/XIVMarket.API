@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosXIVServersEndpoint": "https://ffmarket.documents.azure.com:443/",
+    "CosmosXIVServersKey": "0eNypIDZvMXk3iQaDtAJI1N1q4aMItq9bxYAhzs5mEWxcGy97LnHDdhP2FYSopymEqa2eCGxGFeR42cfjGIryA==",
+    "CosmosXIVServersDatabaseId": "ffmarketsdb",
+    "XIVMarketDatabase": "https://universalis.app",
+    "XIVItemDatabase": "https://xivapi.com/"
+  }
+}
